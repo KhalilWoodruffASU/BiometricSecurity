@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Biometric Security</string>
+    <string name="versionNum">Version\: 1.0</string>
+    <string name="menu_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="about">About</string>
+    <string name="background">background</string>
+    <string name="details">This app is to help use the ease of biometrics in one\'s mobile device in conjunction with the following software to unlock the respective software in place of a password\:</string>
+    <string name="responsibility">USE THIS APPLICATION AND IT\'S AFFILIATED SOFTWARE AT YOUR OWN RISK.\n By using this software or its affiliated software, you release the developers from any liabiity related to the security of your accounts in conjunction with the use of this software.</string>
+    <string name="contact1">j.z.r.brown@asu.edu</string>
+    <string name="contact2">kmwoodr1@asu.edu</string>
+    <string name="h1Contact">Contact info\:</string>
+    <string name="titleConfig">Configuration</string>
+    <string name="switchLinux">Linux Account</string>
+    <string name="switchFirefox">Firefox Account</string>
+    <string name="switchKeePassXC">KeePassXC Database</string>
+    <string name="h1AccountType">Accounts\:</string>
+    <string name="h1Authentication">Authentication Methods\:</string>
+    <string name="pinSwitch">Pin</string>
+    <string name="patternSwitch">Pattern</string>
+    <string name="passphraseSwitch">Pass Phrase</string>
+    <string name="faceSwitch">Facial Recognition</string>
+    <string name="fingerSwitch">Fingerprint</string>
+    <string name="saveSettings">save</string>
+    <string name="passphrase">passphrase</string>
+    <string name="enter_your_passphrase">Enter your passphrase</string>
+    <string name="submit">Submit</string>
+    <string name="backgroundimage">backgroundImage</string>
+    <string name="this_requires_keepassxc_database_to_remain_on">This requires KeePassXC Database to remain on.</string>
+    <string name="this_is_the_weakest_form_of_authentication_when_used_alone">This is the weakest form of authentication, when used alone.</string>
+    <string name="enter_your_pin">Enter your pin</string>
+    <string name="standbyMessage">There are no authentication requests.</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="create_pattern">Please enter a pattern to save.</string>
+    <string name="input_pattern">Please enter your pattern.</string>
+
+</resources>
