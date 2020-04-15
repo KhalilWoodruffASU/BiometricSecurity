@@ -75,6 +75,10 @@ public class FaceActivity extends AppCompatActivity {
         // Prompt appears when user clicks "Log in".
         // Consider integrating with the keystore to unlock cryptographic operations,
         // if needed by your app.
+
+        // SetContentView fixed the Authentication from crashing--This was crashing due
+        // to the onClickListener looking in the wrong xml file
+        setContentView(R.layout.content_main);
         Button biometricLoginButton = findViewById(R.id.testAuthenticationButton);
         biometricLoginButton.setOnClickListener(new View.OnClickListener() {
             @Override
