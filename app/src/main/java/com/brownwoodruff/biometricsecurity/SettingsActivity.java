@@ -254,3 +254,8 @@ public class SettingsActivity extends AppCompatActivity {
     }
 }
 
+//In the XML for this file, I had to swap finger scan and face scan due to the fingerscan activity
+//not working properly, yet the face scan activity is what prompts the thumbprint.
+//What is happening is the face activity deals with biometrics in general with the ability to
+//do fingerscan. Face scan altogether is difficult to test due to the emulators available to us
+//not being new enough to test.
